@@ -1,0 +1,7 @@
+{
+  "name": "Sino Study AI",
+  "description": "An AI-powered study companion that converts text or images into structured notes, mind maps, and personalized exam schedules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
